@@ -82,6 +82,7 @@ body {
 .lightbox.is-open {
   opacity: 1;
   pointer-events: initial;
+
 }
 
 .lightbox__overlay {
